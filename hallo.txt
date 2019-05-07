@@ -1,3 +1,6 @@
 Mein Name ist Sabina
 Hallo Christian...
+<<<<<<< HEAD
 Hallihallo...ljalfd
+Hallihallo...ljalfd ohne Handynummer
+

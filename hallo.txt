@@ -4,3 +4,4 @@ Hallo Christian...
 Hallihallo...ljalfd
 Hallihallo...ljalfd ohne Handynummer
 Hier ist die Änderung für die 3. Übung
+Übung 4 mit Konflikt bei rebase

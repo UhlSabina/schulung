@@ -3,4 +3,4 @@ Hallo Christian...
 <<<<<<< HEAD
 Hallihallo...ljalfd
 Hallihallo...ljalfd ohne Handynummer
-
+Hier ist die Änderung für die 3. Übung
